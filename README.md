@@ -1,3 +1,7 @@
+
+
+
+
 ###  Test 1.1 – Initialisation du projet
 
 Cette capture montre l’exécution initiale de l’application.  
